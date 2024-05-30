@@ -1,0 +1,2145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://blvck.com/en-ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://blvck.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://blvck.com/en-ca/collections/men.atom"/>
+  <title>Blvck</title>
+  <updated>2024-04-10T08:43:56+02:00</updated>
+  <author>
+    <name>Blvck</name>
+  </author>
+  <entry>
+    <id>https://blvck.com/en-ca/products/6665186508902</id>
+    <published>2024-04-10T08:43:56+02:00</published>
+    <updated>2024-04-10T08:43:56+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/blvck-morose-hoodie"/>
+    <title>Blvck &apos;Morose&apos; Hoodie</title>
+    <s:type>Hoodies &amp; Sweaters</s:type>
+    <s:vendor>Blvck Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/products/03_e74182ea-8b90-41d6-865d-99656aae79ae.jpg?v=1642347086"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blvck Paris<br>
+        <strong>Type: </strong>Hoodies &amp; Sweaters<br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">The Blvck 'Morose' Hoodie features a unique print at the back of the emblematic Blvck skull for a minimalist, streetwear look.<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">Made<span data-mce-fragment="1"> </span>from luxurious 100% Terry Cotton, all our hoodies are super soft to the touch and perfect for everyday wear.</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Fits regular size for male.</span></p>
+<div data-mce-fragment="1">
+<div data-mce-fragment="1">
+<div data-mce-fragment="1">
+<div data-mce-fragment="1">
+<p data-mce-fragment="1"><span data-mce-fragment="1">The model is wearing XL and is 6ft 1in.</span></p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>_badge_new</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>hoodie</s:tag>
+    <s:tag>hoodie+sweater</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>ready-to-wear</s:tag>
+    <s:tag>sweatshirts</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6665186508902</id>
+      <title>XS</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>Sombre Desir Hoodie XS</s:sku>
+      <s:grams>456</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6665186508902</id>
+      <title>S</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>Sombre Desir Hoodie S</s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6665186508902</id>
+      <title>M</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>Sombre Desir Hoodie M</s:sku>
+      <s:grams>536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6665186508902</id>
+      <title>L</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>Sombre Desir Hoodie L</s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6665186508902</id>
+      <title>XL</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>Sombre Desir Hoodie XL</s:sku>
+      <s:grams>316</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6665186508902</id>
+      <title>2XL</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>Sombre Desir Hoodie XXL</s:sku>
+      <s:grams>319</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6665186508902</id>
+      <title>3XL</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>Sombre Desir Hoodie XXXL</s:sku>
+      <s:grams>325</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blvck.com/en-ca/products/6626722250854</id>
+    <published>2024-04-04T19:48:50+02:00</published>
+    <updated>2024-04-04T19:48:50+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/blvck-faded-rose-sweater"/>
+    <title>Blvck Faded Rose Sweater</title>
+    <s:type>Hoodies &amp; Sweaters</s:type>
+    <s:vendor>Blvck Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/products/02-web_9654fa55-cfc5-4735-9cbc-a0f5ad86efee.jpg?v=1685433978"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blvck Paris<br>
+        <strong>Type: </strong>Hoodies &amp; Sweaters<br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">The 'Blvck Faded Rose Sweater' features a one-of-a-kind look with a Blvck skull holding a faded rose illustration, embroidered on the back of the sweater.</p>
+<p data-mce-fragment="1">Made from 100% Terry Cotton, this limited edition sweater keeps you warm and stylish throughout your day. </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Limited supply.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Fits regular size. The model is </span>189cm and wears large. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clothing</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>ready-to-wear</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>sweatshirts</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6626722250854</id>
+      <title>XS</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>Faded rose sweater - XS</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6626722250854</id>
+      <title>S</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>Faded rose sweater - S</s:sku>
+      <s:grams>196</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6626722250854</id>
+      <title>M</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>Faded rose sweater - M</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6626722250854</id>
+      <title>L</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>Faded rose sweater - L</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6626722250854</id>
+      <title>XL</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>Faded rose sweater - XL</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6626722250854</id>
+      <title>2XL</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>Faded rose sweater - XXL</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blvck.com/en-ca/products/6665179431014</id>
+    <published>2024-04-04T19:48:28+02:00</published>
+    <updated>2024-04-04T19:48:28+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/oversized-sombre-desire-tee"/>
+    <title>Blvck Oversized &apos;Sombre Desire&apos; Tee</title>
+    <s:type>Tees</s:type>
+    <s:vendor>Blvck Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/products/01_fc22b121-c94c-4a30-970b-edd4f55b35af.jpg?v=1685284596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blvck Paris<br>
+        <strong>Type: </strong>Tees<br>
+        <strong>Price: </strong>
+            105.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">The Blvck Oversized 'Sombre Desire' Tee features our logo in embroidery on the chest which gives a discrete and subtle look to the outfit. The back features a print of the Blvck Savanna, together with the Blvck signature logo. </p>
+<p data-mce-fragment="1">Made<span data-mce-fragment="1"> </span>from luxurious 100% Terry Cotton, all our tees are super soft to the touch and perfect for everyday wear.</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Oversized Fit.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Model is wearing a size XL and is 6ft 1in. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>ready-to-wear</s:tag>
+    <s:tag>shirt</s:tag>
+    <s:tag>T-shirt</s:tag>
+    <s:tag>tees</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6665179431014</id>
+      <title>XS</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>Oversized Sombre Desir Tee XS</s:sku>
+      <s:grams>266</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6665179431014</id>
+      <title>S</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>Oversized Sombre Desir Tee S</s:sku>
+      <s:grams>281</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6665179431014</id>
+      <title>M</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>Oversized Sombre Desir Tee M</s:sku>
+      <s:grams>292</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6665179431014</id>
+      <title>L</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>Oversized Sombre Desir Tee L</s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6665179431014</id>
+      <title>XL</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>Oversized Sombre Desir Tee XL</s:sku>
+      <s:grams>329</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6665179431014</id>
+      <title>2XL</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>Oversized Sombre Desir Tee XXL</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6665179431014</id>
+      <title>3XL</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>Oversized Sombre Desir Tee XXXL</s:sku>
+      <s:grams>357</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blvck.com/en-ca/products/4748372508774</id>
+    <published>2024-04-01T10:42:59+02:00</published>
+    <updated>2024-04-01T10:42:59+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/blvck-monogram-hoodie"/>
+    <title>Blvck Monogram Hoodie</title>
+    <s:type>Hoodies &amp; Sweaters</s:type>
+    <s:vendor>Blvck Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/products/front.jpg?v=1629972902"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blvck Paris<br>
+        <strong>Type: </strong>Hoodies &amp; Sweaters<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Part of BLVCK03, our 'Blvck Monogram Hoodie' is embellished all over with the BLVCK Oblique motif and features a logo on the hood that gives a defining look to any outfit.</p>
+<p>Made from luxurious 100% Terry Cotton, all our hoodies are super soft to the touch and perfect for everyday wear.</p>
+<p>Fits regular size.</p>
+<div>
+<div>
+<div>
+<div>
+<p><span>The model is wearing L and is 1m86.</span></p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>_upsell_monogram-tee_31985843929190</s:tag>
+    <s:tag>bestsellers_men</s:tag>
+    <s:tag>hoodie</s:tag>
+    <s:tag>hoodie+sweater</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>ready-to-wear</s:tag>
+    <s:tag>sweatshirts</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/4748372508774</id>
+      <title>XS</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>Monogram Hoodie - XS</s:sku>
+      <s:grams>621</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/4748372508774</id>
+      <title>S</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>Monogram Hoodie - S</s:sku>
+      <s:grams>655</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/4748372508774</id>
+      <title>M</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>Monogram Hoodie - M</s:sku>
+      <s:grams>692</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/4748372508774</id>
+      <title>L</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>Monogram Hoodie - L</s:sku>
+      <s:grams>714</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/4748372508774</id>
+      <title>XL</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>Monogram Hoodie - XL</s:sku>
+      <s:grams>757</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blvck.com/en-ca/products/8798019256651</id>
+    <published>2024-03-21T10:03:22+01:00</published>
+    <updated>2024-03-21T10:03:22+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/blvck-x-memeland-skull-tee"/>
+    <title>Blvck x Memeland Skull tee</title>
+    <s:type>Tees</s:type>
+    <s:vendor>Blvck Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/files/Front2_234304cd-2d73-4050-85d2-1e324a9d947c.png?v=1711013723"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blvck Paris<br>
+        <strong>Type: </strong>Tees<br>
+        <strong>Price: </strong>
+            90.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Featuring the distinguished skull artwork in rubber print on the front and 'Blvck Paris' branding on the rear, the 'Blvck x Memeland Skull Tee’ adds a subtle style to your wardrobe. Constructed from a premium blend of combed cotton, it is amazingly soft and provides a comfortable and relaxed fit for any occasion.</p>
+<p data-mce-fragment="1">This garment presents an oversized fit.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>ready-to-wear</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8798019256651</id>
+      <title>XS</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>BLVCKXMEMELAND Skull Tee XS</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8798019256651</id>
+      <title>S</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>BLVCKXMEMELAND Skull Tee S</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8798019256651</id>
+      <title>M</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>BLVCKXMEMELAND Skull Tee M</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8798019256651</id>
+      <title>L</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>BLVCKXMEMELAND Skull Tee L</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8798019256651</id>
+      <title>XL</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>BLVCKXMEMELAND Skull Tee XL</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8798019256651</id>
+      <title>2XL</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>BLVCKXMEMELAND Skull Tee XXL</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8798019256651</id>
+      <title>3XL</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>BLVCKXMEMELAND Skull Tee XXXL</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blvck.com/en-ca/products/8797935272267</id>
+    <published>2024-03-21T07:06:17+01:00</published>
+    <updated>2024-03-21T07:06:17+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/blvck-x-memeland-essential-hoodie"/>
+    <title>Blvck x Memeland Essential Hoodie</title>
+    <s:type>Hoodies &amp; Sweaters</s:type>
+    <s:vendor>Blvck Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/files/front2_a997023e-c806-45a6-bcf4-b7fc38113904.png?v=1711006358"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blvck Paris<br>
+        <strong>Type: </strong>Hoodies &amp; Sweaters<br>
+        <strong>Price: </strong>
+            160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Elevate your appearance with the 'Blvck x Memeland Essential Hoodie'. The front boasts the iconic Memeland logo in rubber print, while the back showcases a modern take on the 'Blvck Paris' logo in pixelated rubber print.</p>
+<p data-mce-fragment="1">Crafted from a luxurious blend of fleece cotton, it's impossibly soft to the touch and lends a perfect fit for whichever activity the day may bring.</p>
+<p data-mce-fragment="1">This piece boasts an oversized fit.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>ready-to-wear</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8797935272267</id>
+      <title>XS</title>
+      <s:price currency="USD">160.00</s:price>
+      <s:sku>BLVCKXMEMELAND Signature Hoodie XS</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8797935272267</id>
+      <title>S</title>
+      <s:price currency="USD">160.00</s:price>
+      <s:sku>BLVCKXMEMELAND Signature Hoodie S</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8797935272267</id>
+      <title>M</title>
+      <s:price currency="USD">160.00</s:price>
+      <s:sku>BLVCKXMEMELAND Signature Hoodie M</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8797935272267</id>
+      <title>L</title>
+      <s:price currency="USD">160.00</s:price>
+      <s:sku>BLVCKXMEMELAND Signature Hoodie L</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8797935272267</id>
+      <title>XL</title>
+      <s:price currency="USD">160.00</s:price>
+      <s:sku>BLVCKXMEMELAND Signature Hoodie XL</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8797935272267</id>
+      <title>2XL</title>
+      <s:price currency="USD">160.00</s:price>
+      <s:sku>BLVCKXMEMELAND Signature Hoodie XXL</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8797935272267</id>
+      <title>3XL</title>
+      <s:price currency="USD">160.00</s:price>
+      <s:sku>BLVCKXMEMELAND Signature Hoodie XXXL</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blvck.com/en-ca/products/8796776333643</id>
+    <published>2024-03-20T15:39:04+01:00</published>
+    <updated>2024-03-20T15:39:04+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/blvck-x-memeland-coins-hoodie"/>
+    <title>Blvck x Memeland Coins Hoodie</title>
+    <s:type>Hoodies &amp; Sweaters</s:type>
+    <s:vendor>Blvck Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/files/front_f83ddc75-5145-4936-b04b-bbf8733263d5.png?v=1711040556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blvck Paris<br>
+        <strong>Type: </strong>Hoodies &amp; Sweaters<br>
+        <strong>Price: </strong>
+            160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1" style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;" data-mce-style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">Featuring the Memeland logo in rubber print on the front, the Blvck x Memeland 'Coins' Hoodie offers a discreetly stylish way to keep your meme coins close.</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">The back displays a revamped pixelated 'Blvck Paris' logo in rubber print.</p>
+<p data-mce-fragment="1">Crafted from a luxurious blend of fleece cotton, it's impossibly soft to the touch and lends a perfect fit for whichever activity the day may bring.</p>
+<p data-mce-fragment="1">This piece boasts an oversized fit.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>memeland</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>ready-to-wear</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8796776333643</id>
+      <title>XS</title>
+      <s:price currency="USD">160.00</s:price>
+      <s:sku>BLVCKXMEMELAND Coin Hoodie XS</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8796776333643</id>
+      <title>S</title>
+      <s:price currency="USD">160.00</s:price>
+      <s:sku>BLVCKXMEMELAND Coin Hoodie S</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8796776333643</id>
+      <title>M</title>
+      <s:price currency="USD">160.00</s:price>
+      <s:sku>BLVCKXMEMELAND Coin Hoodie M</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8796776333643</id>
+      <title>L</title>
+      <s:price currency="USD">160.00</s:price>
+      <s:sku>BLVCKXMEMELAND Coin Hoodie L</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8796776333643</id>
+      <title>XL</title>
+      <s:price currency="USD">160.00</s:price>
+      <s:sku>BLVCKXMEMELAND Coin Hoodie XL</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8796776333643</id>
+      <title>2XL</title>
+      <s:price currency="USD">160.00</s:price>
+      <s:sku>BLVCKXMEMELAND Coin Hoodie XXL</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8796776333643</id>
+      <title>3XL</title>
+      <s:price currency="USD">160.00</s:price>
+      <s:sku>BLVCKXMEMELAND Coin Hoodie XXXL</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blvck.com/en-ca/products/8796616687947</id>
+    <published>2024-03-20T12:57:11+01:00</published>
+    <updated>2024-03-20T12:57:11+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/blvck-x-memeland-finger-tee"/>
+    <title>Blvck x Memeland &apos;Finger&apos; Tee</title>
+    <s:type>Tees</s:type>
+    <s:vendor>Blvck Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/files/Front_f69d35f9-a213-40d5-8e5b-b5168ba39663.png?v=1710935835"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blvck Paris<br>
+        <strong>Type: </strong>Tees<br>
+        <strong>Price: </strong>
+            90.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">This tee is a limited edition, specially created to commemorate the launch of our collaboration at ComplexCon.</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">The Blvck x Memeland 'Finger' Tee adds a touch of sophistication and playful humor to your daily outfit with its cleverly concealed middle finger embroidered inside the chest pocket.</span><br data-mce-fragment="1"><span data-mce-fragment="1">This product features a dark grey embroidery artwork on combed cotton, along with black rubber print logos.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Oversized fit</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Unisex.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>memeland</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>ready-to-wear</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8796616687947</id>
+      <title>XS</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>BLVCKXMEMELAND Finger Tee XS</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8796616687947</id>
+      <title>S</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>BLVCKXMEMELAND Finger Tee S</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8796616687947</id>
+      <title>M</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>BLVCKXMEMELAND Finger Tee M</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8796616687947</id>
+      <title>L</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>BLVCKXMEMELAND Finger Tee L</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8796616687947</id>
+      <title>XL</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>BLVCKXMEMELAND Finger Tee XL</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8796616687947</id>
+      <title>2XL</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>BLVCKXMEMELAND Finger Tee XXL</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8796616687947</id>
+      <title>3XL</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>BLVCKXMEMELAND Finger Tee XXXL</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blvck.com/en-ca/products/8512369819979</id>
+    <published>2024-03-10T16:55:34+01:00</published>
+    <updated>2024-03-10T16:55:34+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/blvck-branded-bucket-hat"/>
+    <title>Blvck Reversible Bucket Hat</title>
+    <s:type>Headwear</s:type>
+    <s:vendor>Blvck Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/files/02_2c2f4c43-7775-4af4-847b-3604d0ffb6ee.jpg?v=1689144464"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blvck Paris<br>
+        <strong>Type: </strong>Headwear<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Channeling a Blvck summer style, the Blvck Branded Bucket hat is reversible with one minimalistic side with the Blvck logo on it and the other side full monogram in UV glossy black for an effortlessly cool feel. It's detailed with black logo straps<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">One size fits most. Comes with a size adjuster.<br data-mce-fragment="1"><br data-mce-fragment="1">100% Nylon.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessorie</s:tag>
+    <s:tag>accessories</s:tag>
+    <s:tag>headware</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>ready-to-wear</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8512369819979</id>
+      <title>Default Title</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>Blvck Branded Bucket Hat</s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blvck.com/en-ca/products/4921515311206</id>
+    <published>2024-03-09T15:43:46+01:00</published>
+    <updated>2024-03-09T15:43:46+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/whte-bold-stripe-hoodie"/>
+    <title>Whte Bold Stripe Hoodie</title>
+    <s:type>Hoodies &amp; Sweaters</s:type>
+    <s:vendor>Whte Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/products/boldhoodie2.jpg?v=1685437573"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whte Paris<br>
+        <strong>Type: </strong>Hoodies &amp; Sweaters<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Part of the Whte01 Collection, the 'Bold Stripe Hoodie' features a unique extended stripe across the chest/arms with the Whte Logo printed across the sleeve.chest for a minimalist, streetwear look.<meta charset="utf-8"></p>
+<p>Made from luxurious terry &amp; fleece cotton, all our hoodies are super soft to the touch and perfect for everyday wear.</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Unisex fit. Fits regular size for men.<br><br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>_upsell_whte-signature-sweatpants_32072334901350</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>sweatshirts</s:tag>
+    <s:tag>whte</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/4921515311206</id>
+      <title>XS</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>WHTE Bold Stripe Hoodie - XS</s:sku>
+      <s:grams>615</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/4921515311206</id>
+      <title>S</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>WHTE Bold Stripe Hoodie - S</s:sku>
+      <s:grams>649</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/4921515311206</id>
+      <title>M</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>WHTE Bold Stripe Hoodie - M</s:sku>
+      <s:grams>695</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/4921515311206</id>
+      <title>L</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>WHTE Bold Stripe Hoodie - L</s:sku>
+      <s:grams>709</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/4921515311206</id>
+      <title>XL</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>WHTE Bold Stripe Hoodie - XL</s:sku>
+      <s:grams>757</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/4921515311206</id>
+      <title>2XL</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>32072295972966</s:sku>
+      <s:grams>621</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blvck.com/en-ca/products/6786006909030</id>
+    <published>2024-02-27T12:53:55+01:00</published>
+    <updated>2024-02-27T12:53:55+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/blvck-reversible-puffer-coat"/>
+    <title>Blvck Reversible Puffer Coat</title>
+    <s:type>Outerwear</s:type>
+    <s:vendor>Blvck Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/products/1_4b76c0cf-1d03-40b3-ad00-6e5351fd4d6f.jpg?v=1685429081"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blvck Paris<br>
+        <strong>Type: </strong>Outerwear<br>
+        <strong>Price: </strong>
+            400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Introducing the 'Blvck Reversible Puffer Coat', this jacket is filled with down feather to provide unparalleled warmth and an investment which you will re-wear season after season.</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">The coat is reversible with one minimalistic all black side and the other side embellished with monograms all over the jacket and has a reflective black UV gloss. </span></p>
+<p data-mce-fragment="1">Washing care: Hand Wash or Dry clean </p>
+<p data-mce-fragment="1">Inner: 90% Duck Down, 10% Polyester </p>
+<div data-mce-fragment="1">
+<p data-mce-fragment="1"><meta charset="utf-8">We recommend taking a size up your usual size. </p>
+<p data-mce-fragment="1">The model is wearing L and is 1m86. </p>
+</div>
+<div data-mce-fragment="1"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>outerwear</s:tag>
+    <s:tag>ready-to-wear</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6786006909030</id>
+      <title>XS</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>Blvck Reversible Puffer Coat XS</s:sku>
+      <s:grams>771</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6786006909030</id>
+      <title>S</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>Blvck Reversible Puffer Coat S</s:sku>
+      <s:grams>771</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6786006909030</id>
+      <title>M</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>Blvck Reversible Puffer Coat M</s:sku>
+      <s:grams>771</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6786006909030</id>
+      <title>L</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>Blvck Reversible Puffer Coat L</s:sku>
+      <s:grams>771</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6786006909030</id>
+      <title>XL</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>Blvck Reversible Puffer Coat XL</s:sku>
+      <s:grams>771</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6786006909030</id>
+      <title>2XL</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>Blvck Reversible Puffer Coat XXL</s:sku>
+      <s:grams>771</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blvck.com/en-ca/products/6841409241190</id>
+    <published>2024-02-18T14:10:55+01:00</published>
+    <updated>2024-02-18T14:10:55+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/blvck-enchanted-hoodie"/>
+    <title>Blvck Enchanted Hoodie</title>
+    <s:type>Hoodies &amp; Sweaters</s:type>
+    <s:vendor>Blvck Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/products/BLVCK0112_d4514cce-6c9a-47a8-99ee-4e70f07a4188.jpg?v=1677060699"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blvck Paris<br>
+        <strong>Type: </strong>Hoodies &amp; Sweaters<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">'The Blvck Enchanted Hoodie' features the Signature Snake Illustration in embroidery all over the shoulders that adds a defining look to any outfit.</p>
+<p data-mce-fragment="1">Made<span data-mce-fragment="1"> </span>from luxurious 100% Terry Cotton, all our hoodies are super soft to the touch and perfect for everyday wear.</p>
+<div data-mce-fragment="1">
+<p data-mce-fragment="1"><meta charset="utf-8"><span> Fits Regular Size for men.</span></p>
+<p data-mce-fragment="1"><span><meta charset="utf-8">The male model is wearing a size L and is 1m83.</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hoodie</s:tag>
+    <s:tag>hoodie+sweater</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>ready-to-wear</s:tag>
+    <s:tag>sweatshirts</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6841409241190</id>
+      <title>XS</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>Blvck Enchanted Hoodie XS</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6841409241190</id>
+      <title>S</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>Blvck Enchanted Hoodie S</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6841409241190</id>
+      <title>M</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>Blvck Enchanted Hoodie M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6841409241190</id>
+      <title>L</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>Blvck Enchanted Hoodie L</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6841409241190</id>
+      <title>XL</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>Blvck Enchanted Hoodie XL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6841409241190</id>
+      <title>2XL</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>Blvck Enchanted Hoodie XXL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6841409241190</id>
+      <title>3XL</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>Blvck Enchanted Hoodie XXXL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blvck.com/en-ca/products/4749371736166</id>
+    <published>2024-02-15T14:49:16+01:00</published>
+    <updated>2024-02-15T14:49:16+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/blvck-minimalist-sweats"/>
+    <title>Blvck Minimalist Sweats</title>
+    <s:type>Pants</s:type>
+    <s:vendor>Blvck Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/products/front_ae776f3b-b80f-410f-8a58-261217bf721f.jpg?v=1629981225"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blvck Paris<br>
+        <strong>Type: </strong>Pants<br>
+        <strong>Price: </strong>
+            110.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>The 'Bold Minimalist Sweats' features an embroidered BLVCK logo on the outside of the front leg with a branded Blvck drawstring to give you the ultimate Blvck experience. These sweatpants are warm and perfect for a casual, laidback day.</p>
+<p>Made<span> </span>from luxurious 100% Terry Cotton, our sweatpants are super soft to the touch and perfect for everyday wear.</p>
+<p>Fits regular size.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>_upsell_essential-hoodie_13695835897958</s:tag>
+    <s:tag>bestsellers_men</s:tag>
+    <s:tag>blvck03</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Pants &amp; Joggers</s:tag>
+    <s:tag>ready-to-wear</s:tag>
+    <s:tag>trouser</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/4749371736166</id>
+      <title>XS</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>Sweatpants Minimalist - XS</s:sku>
+      <s:grams>422</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/4749371736166</id>
+      <title>S</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>Sweatpants Minimalist - S</s:sku>
+      <s:grams>442</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/4749371736166</id>
+      <title>M</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>Sweatpants Minimalist - M</s:sku>
+      <s:grams>479</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/4749371736166</id>
+      <title>L</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>Sweatpants Minimalist - L</s:sku>
+      <s:grams>482</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/4749371736166</id>
+      <title>XL</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>Sweatpants Minimalist - XL</s:sku>
+      <s:grams>536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blvck.com/en-ca/products/6572875120742</id>
+    <published>2024-02-12T14:23:37+01:00</published>
+    <updated>2024-02-12T14:23:37+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/blvck-verse-hoodie"/>
+    <title>Blvck Verse Hoodie</title>
+    <s:type>Hoodies &amp; Sweaters</s:type>
+    <s:vendor>Blvck Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/products/00-1.jpg?v=1629907659"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blvck Paris<br>
+        <strong>Type: </strong>Hoodies &amp; Sweaters<br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">The 'Blvck Verse Hoodie' features a unique Roses artwork piece on the back of the hoodie with an extract from a poem from french poet, Paul Verlaine and a simple Blvck logo on the chest for a minimalist, streetwear look.</p>
+<p data-mce-fragment="1">Made<span data-mce-fragment="1"> </span>from luxurious 100% Terry Cotton, all our hoodies are super soft to the touch and perfect for everyday wear.</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1" mce-data-marked="1">Fits true to size.</span></p>
+<div>
+<br>
+<p data-mce-fragment="1"><span data-mce-fragment="1">The model is 1.87cm and wears a size Large. </span></p>
+</div>
+<div data-design="tabs" class="krown-tabs">
+<div class="titles"><br></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>_upsell_blvck-minimalist-sweats_31613307158630</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>hoodie</s:tag>
+    <s:tag>hoodie+sweater</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>ready-to-wear</s:tag>
+    <s:tag>Sweatshirts</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6572875120742</id>
+      <title>2XS</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>Blvck Verse Hoodie - XXS</s:sku>
+      <s:grams>422</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6572875120742</id>
+      <title>XS</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>Blvck Verse Hoodie - XS</s:sku>
+      <s:grams>663</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6572875120742</id>
+      <title>S</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>Blvck Verse Hoodie - S</s:sku>
+      <s:grams>675</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6572875120742</id>
+      <title>M</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>Blvck Verse Hoodie - M</s:sku>
+      <s:grams>731</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6572875120742</id>
+      <title>L</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>Blvck Verse Hoodie - L</s:sku>
+      <s:grams>777</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6572875120742</id>
+      <title>XL</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>Blvck Verse Hoodie - XL</s:sku>
+      <s:grams>802</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6572875120742</id>
+      <title>2XL</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>Blvck Verse Hoodie - XXL</s:sku>
+      <s:grams>831</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blvck.com/en-ca/products/5000168013926</id>
+    <published>2024-02-11T16:26:39+01:00</published>
+    <updated>2024-02-11T16:26:39+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/blvck-monogram-torn-hoodie"/>
+    <title>Blvck Monogram Torn Hoodie</title>
+    <s:type>Hoodies &amp; Sweaters</s:type>
+    <s:vendor>Blvck Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/products/00_e38a0a73-6325-4b82-87b4-df5bc716ae24.jpg?v=1629910560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blvck Paris<br>
+        <strong>Type: </strong>Hoodies &amp; Sweaters<br>
+        <strong>Price: </strong>
+            90.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Part of the BLVCK06 Collection, the 'Blvck<span data-mce-fragment="1"> Monogram Torn</span> Hoodie' features our signature monograms <meta charset="utf-8"><span data-mce-fragment="1">embellished in selected areas that gives a defining look to any outfit.</span><br></p>
+<p data-mce-fragment="1">Made<span data-mce-fragment="1"> </span>from luxurious 100% Terry Cotton, all our hoodies are super soft to the touch and perfect for everyday wear.</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Fits regular size for male.</span></p>
+<div>
+<div>
+<div>
+<p><span>The model is wearing L and is 1m86.</span></p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>_upsell_blvck-tokyo-pants_31985901240422</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>hoodie</s:tag>
+    <s:tag>hoodie+sweater</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>ready-to-wear</s:tag>
+    <s:tag>sweatshirts</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/5000168013926</id>
+      <title>XXS</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>BLVCK Torn Monogram Hoodie - XXS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/5000168013926</id>
+      <title>XS</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>BLVCK Torn Monogram Hoodie - XS</s:sku>
+      <s:grams>490</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/5000168013926</id>
+      <title>S</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>BLVCK Torn Monogram Hoodie - S</s:sku>
+      <s:grams>663</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/5000168013926</id>
+      <title>M</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>BLVCK Torn Monogram Hoodie - M</s:sku>
+      <s:grams>649</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/5000168013926</id>
+      <title>L</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>BLVCK Torn Monogram Hoodie - L</s:sku>
+      <s:grams>734</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/5000168013926</id>
+      <title>XL</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>BLVCK Torn Monogram Hoodie - XL</s:sku>
+      <s:grams>576</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/5000168013926</id>
+      <title>XXL</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>BLVCK Torn Monogram Hoodie - XXL</s:sku>
+      <s:grams>816</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blvck.com/en-ca/products/6715480572006</id>
+    <published>2024-01-31T12:19:17+01:00</published>
+    <updated>2024-01-31T12:19:17+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/blvck-on-blvck-embossed-hoodie"/>
+    <title>Blvck on Blvck Embossed Hoodie</title>
+    <s:type>Hoodies &amp; Sweaters</s:type>
+    <s:vendor>Blvck Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/products/DSC07878.jpg?v=1653242409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blvck Paris<br>
+        <strong>Type: </strong>Hoodies &amp; Sweaters<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">The 'Blvck on Blvck Embroidery Hoodie' features a handstitched logo on the chest that gives a defining look to any outfit. It's perfect for a casual, laidback look or to be added as a signature piece to a stylish outfit.</p>
+<p data-mce-fragment="1">Made from luxurious 100% Terry Cotton, all our hoodies are super soft to the touch and perfect for everyday wear.</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Male model is 1m86 and is wearing size L.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hoodie+sweater</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>ready-to-wear</s:tag>
+    <s:tag>sweatshirts</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6715480572006</id>
+      <title>XS</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>Blvck on Blvck Embossed Hoodie XS</s:sku>
+      <s:grams>612</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6715480572006</id>
+      <title>S</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>Blvck on Blvck Embossed Hoodie S</s:sku>
+      <s:grams>652</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6715480572006</id>
+      <title>M</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>Blvck on Blvck Embossed Hoodie M</s:sku>
+      <s:grams>686</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6715480572006</id>
+      <title>L</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>Blvck on Blvck Embossed Hoodie L</s:sku>
+      <s:grams>700</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6715480572006</id>
+      <title>XL</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>Blvck on Blvck Embossed Hoodie XL</s:sku>
+      <s:grams>314</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6715480572006</id>
+      <title>2XL</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>Blvck on Blvck Embossed Hoodie XXL</s:sku>
+      <s:grams>808</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blvck.com/en-ca/products/8710992363851</id>
+    <published>2024-01-28T14:55:49+01:00</published>
+    <updated>2024-01-28T14:55:49+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/blvck-gradient-sweater"/>
+    <title>Blvck Gradient Sweater</title>
+    <s:type>Hoodies &amp; Sweaters</s:type>
+    <s:vendor>Blvck Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/files/00_5642e16f-e409-4d15-afc4-d5319c744142.jpg?v=1706451544"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blvck Paris<br>
+        <strong>Type: </strong>Hoodies &amp; Sweaters<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"> The Blvck Gradient Sweater titillates the eyes with its subtle ombré, featuring a spectrum from dark to light grey, and a nonchalant, roomy silhouette.</p>
+<p data-mce-fragment="1">Crafted from french terry cotton, it lends a perfect fit for whichever activity the day may bring.</p>
+<p data-mce-fragment="1">This piece boasts an oversized fit and is wide around the neck. </p>
+<p data-mce-fragment="1"><meta charset="utf-8"><span data-mce-fragment="1">The model is wearing a size XL and is </span><span data-mce-fragment="1">1m86</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hoodie+sweater</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>ready-to-wear</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8710992363851</id>
+      <title>XS</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>Blvck Gradient Sweater XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8710992363851</id>
+      <title>S</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>Blvck Gradient Sweater S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8710992363851</id>
+      <title>M</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>Blvck Gradient Sweater M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8710992363851</id>
+      <title>L</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>Blvck Gradient Sweater L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8710992363851</id>
+      <title>XL</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>Blvck Gradient Sweater XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8710992363851</id>
+      <title>2XL</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>Blvck Gradient Sweater XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blvck.com/en-ca/products/8657850794315</id>
+    <published>2024-01-28T14:44:25+01:00</published>
+    <updated>2024-01-28T14:44:25+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/blvck-mohair-jacket"/>
+    <title>Blvck Mohair Jacket</title>
+    <s:type>Hoodies &amp; Sweaters</s:type>
+    <s:vendor>Blvck Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/files/00_4e7328fe-d03b-419b-a78c-346fa425a844.jpg?v=1706451589"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blvck Paris<br>
+        <strong>Type: </strong>Hoodies &amp; Sweaters<br>
+        <strong>Price: </strong>
+            160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span data-mce-fragment="1">Presenting the Blvck Mohair Jacket, a sophisticated and cozy masterpiece crafted with the most exquisite mohair fabric for a superior touch and feel. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><meta charset="utf-8">Boasting a metallic plate bearing the iconic Blvck Paris logo for an opulent aesthetic, this jacket exudes luxury.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">For a soft touch and luxe touch, look no further than this timeless must-have. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"></span>Oversized Fit.</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">10% mohair, 90% nylon</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hoodie</s:tag>
+    <s:tag>hoodie+sweater</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>ready-to-wear</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8657850794315</id>
+      <title>XS</title>
+      <s:price currency="USD">160.00</s:price>
+      <s:sku>Blvck Mohair Jacket XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8657850794315</id>
+      <title>S</title>
+      <s:price currency="USD">160.00</s:price>
+      <s:sku>Blvck Mohair Jacket S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8657850794315</id>
+      <title>M</title>
+      <s:price currency="USD">160.00</s:price>
+      <s:sku>Blvck Mohair Jacket M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8657850794315</id>
+      <title>L</title>
+      <s:price currency="USD">160.00</s:price>
+      <s:sku>Blvck Mohair Jacket L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8657850794315</id>
+      <title>XL</title>
+      <s:price currency="USD">160.00</s:price>
+      <s:sku>Blvck Mohair Jacket XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blvck.com/en-ca/products/6841471762534</id>
+    <published>2024-01-14T13:45:37+01:00</published>
+    <updated>2024-01-14T13:45:37+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/blvck-stripped-zipped-hoodie"/>
+    <title>Blvck Stripped Zipped Hoodie</title>
+    <s:type>Hoodies &amp; Sweaters</s:type>
+    <s:vendor>Blvck Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/products/front-2_68e96959-9e45-44fb-928a-f5cd09825def.jpg?v=1672833767"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blvck Paris<br>
+        <strong>Type: </strong>Hoodies &amp; Sweaters<br>
+        <strong>Price: </strong>
+            115.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">The 'Blvck Stripped Zipped Hoodie' features an enlarged version of the word 'Paris'  covering the sweater<span data-mce-fragment="1"> </span>as well as<span data-mce-fragment="1"> a limited Blvck branded hood drawstring</span><br data-mce-fragment="1"><br data-mce-fragment="1"><meta charset="utf-8"><span data-mce-fragment="1">Made from luxurious 100% Terry Cotton, all our hoodies are super soft to the touch and perfect for everyday wear.</span><br data-mce-fragment="1">True to size Fit. </p>
+<p data-mce-fragment="1">The model is wearing a size L and is 1m83.</p>
+<p data-mce-fragment="1"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hoodie+sweater</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>outerwear</s:tag>
+    <s:tag>ready-to-wear</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6841471762534</id>
+      <title>XS</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku>Blvck Stripped Zipped Hoodie XS</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6841471762534</id>
+      <title>S</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku>Blvck Stripped Zipped Hoodie S</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6841471762534</id>
+      <title>M</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku>Blvck Stripped Zipped Hoodie M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6841471762534</id>
+      <title>L</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku>Blvck Stripped Zipped Hoodie L</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6841471762534</id>
+      <title>XL</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku>Blvck Stripped Zipped Hoodie XL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6841471762534</id>
+      <title>2XL</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku>Blvck Stripped Zipped Hoodie XXL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blvck.com/en-ca/products/8711021560139</id>
+    <published>2024-01-14T11:08:53+01:00</published>
+    <updated>2024-01-14T11:08:53+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/blvck-monogram-macbook-skin"/>
+    <title>Blvck Monogram MacBook Skin</title>
+    <s:type>High-Tech</s:type>
+    <s:vendor>Blvck Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/files/01_5a14fd65-1898-494c-9d62-363e5f5f7b22.png?v=1705226913"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blvck Paris<br>
+        <strong>Type: </strong>High-Tech<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>With the Blvck Monogram MacBook Skin, your device will never look the same. Made from premium materials, and laser cut to offer the best fit the Blvck MacBook Skin adds a touch of elegance to an otherwise generic design.</p>
+<p>Upgrade your lifestyle today and wrap your MacBook in our luxurious Blvck MacBook Skin! </p>
+<p><strong>Please note that this is a skin that you apply as a sticker to your MacBook (not a case) and that a spacing of 1-2mm may be visible on the edges once applied.</strong></p>
+<div><strong>Package Included</strong></div>
+<div><span>-One top body skin Cover</span></div>
+<div>
+<span>-One keyboard/trackpad surround cover</span><span><br></span>
+</div>
+<div>
+<span>-</span><span>One bottom skin Cover</span>
+</div>
+<ul></ul>
+<br><center>
+<div class="hytPlayerWrapOuter">
+<div class="hytPlayerWrap"><iframe src="https://www.youtube.com/embed/XgMfd5-339c?rel=0&amp;enablejsapi=1" height="500" width="500" frameborder="0"></iframe></div>
+</div>
+<script>// <![CDATA[
+"use strict"; document.addEventListener('DOMContentLoaded', function(){if (window.hideYTActivated) return; let onYouTubeIframeAPIReadyCallbacks=[]; for (let playerWrap of document.querySelectorAll(".hytPlayerWrap")){let playerFrame=playerWrap.querySelector("iframe"); let tag=document.createElement('script'); tag.src="https://www.youtube.com/iframe_api"; let firstScriptTag=document.getElementsByTagName('script')[0]; firstScriptTag.parentNode.insertBefore(tag, firstScriptTag); let onPlayerStateChange=function(event){if (event.data==YT.PlayerState.ENDED){playerWrap.classList.add("ended");}else if (event.data==YT.PlayerState.PAUSED){playerWrap.classList.add("paused");}else if (event.data==YT.PlayerState.PLAYING){playerWrap.classList.remove("ended"); playerWrap.classList.remove("paused");}}; let player; onYouTubeIframeAPIReadyCallbacks.push(function(){player=new YT.Player(playerFrame,{events:{'onStateChange': onPlayerStateChange}});}); playerWrap.addEventListener("click", function(){let playerState=player.getPlayerState(); if (playerState==YT.PlayerState.ENDED){player.seekTo(0);}else if (playerState==YT.PlayerState.PAUSED){player.playVideo();}});}window.onYouTubeIframeAPIReady=function(){for (let callback of onYouTubeIframeAPIReadyCallbacks){callback();}}; window.hideYTActivated=true;});
+// ]]]]><![CDATA[></script>
+</center></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>_badge_new</s:tag>
+    <s:tag>_upsell_blvck-playing-cards_29378893217894</s:tag>
+    <s:tag>accessorie</s:tag>
+    <s:tag>accessories</s:tag>
+    <s:tag>bestsellers_men</s:tag>
+    <s:tag>Blvck_01_test</s:tag>
+    <s:tag>high-tech</s:tag>
+    <s:tag>hightech</s:tag>
+    <s:tag>home</s:tag>
+    <s:tag>macbook-skin</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>women</s:tag>
+    <s:tag>womens</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8711021560139</id>
+      <title>Blvck Monogram MacBook Pro Skin 16.2 2021-2023</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>Blvck Mono Mac Pro Skin 16 M3</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8711021560139</id>
+      <title>Blvck Monogram MacBook Pro Skin 14.2 2021-2023</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>Blvck Mono Mac Pro Skin 14 M3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8711021560139</id>
+      <title>Blvck Monogram MacBook Air Skin 15.3 2023</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>Blvck Mono Mac Air Skin 15 M2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8711021560139</id>
+      <title>Blvck Monogram MacBook Air Skin 13.6 2022</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>Blvck Mono Mac Air Skin 13 M2</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8711021560139</id>
+      <title>Blvck Monogram MacBook Air 13.3 Skin Touchbar 2020-2022</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>Blvck Mono Mac Air Skin TBar 13 M2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blvck.com/en-ca/products/8710997410123</id>
+    <published>2024-01-09T17:06:21+01:00</published>
+    <updated>2024-01-09T17:06:21+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/blvck-shorts-black"/>
+    <title>Blvck Shorts &apos;Black&apos;</title>
+    <s:type>Pants</s:type>
+    <s:vendor>Blvck Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/files/front_black.jpg?v=1704816241"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blvck Paris<br>
+        <strong>Type: </strong>Pants<br>
+        <strong>Price: </strong>
+            90.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Introducing Shades of Blvck, our latest collection of essentials, available in three different shades. </p>
+<p data-mce-fragment="1">The Blvck Shorts 'Black' boasts a black tone. </p>
+<p data-mce-fragment="1">The back features a bold 'Blvck Paris' logo in UV print and the front.</p>
+<p data-mce-fragment="1">Crafted from a luxurious blend of fleece cotton, it's impossibly soft to the touch and lends a perfect fit for whichever activity the day may bring.</p>
+<p data-mce-fragment="1">True to size fit.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>ready-to-wear</s:tag>
+    <s:tag>trouser</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8710997410123</id>
+      <title>XS / Black</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>Shades of Blvck Shorts Black XS</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8710997410123</id>
+      <title>XS / Dark Grey</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>Shades of Blvck Shorts Charcoal XS</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8710997410123</id>
+      <title>XS / Light Grey</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>Shades of Blvck Shorts Grey XS</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8710997410123</id>
+      <title>S / Black</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>Shades of Blvck Shorts Black S</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8710997410123</id>
+      <title>S / Dark Grey</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>Shades of Blvck Shorts Charcoal S</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8710997410123</id>
+      <title>S / Light Grey</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>Shades of Blvck Shorts Grey S</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8710997410123</id>
+      <title>M / Black</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>Shades of Blvck Shorts Black M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8710997410123</id>
+      <title>M / Dark Grey</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>Shades of Blvck Shorts Charcoal M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8710997410123</id>
+      <title>M / Light Grey</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>Shades of Blvck Shorts Grey M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8710997410123</id>
+      <title>L / Black</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>Shades of Blvck Shorts Black L</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8710997410123</id>
+      <title>L / Dark Grey</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>Shades of Blvck Shorts Charcoal L</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8710997410123</id>
+      <title>L / Light Grey</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>Shades of Blvck Shorts Grey L</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8710997410123</id>
+      <title>XL / Black</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>Shades of Blvck Shorts Black XL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8710997410123</id>
+      <title>XL / Dark Grey</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>Shades of Blvck Shorts Charcoal XL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8710997410123</id>
+      <title>XL / Light Grey</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>Shades of Blvck Shorts Grey XL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8710997410123</id>
+      <title>2XL / Black</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>Shades of Blvck Shorts Black XXL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8710997410123</id>
+      <title>2XL / Dark Grey</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>Shades of Blvck Shorts Charcoal XXL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8710997410123</id>
+      <title>2XL / Light Grey</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>Shades of Blvck Shorts Grey XXL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8710997410123</id>
+      <title>3XL / Black</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>Shades of Blvck Shorts Black XXXL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8710997410123</id>
+      <title>3XL / Dark Grey</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>Shades of Blvck Shorts Charcoal XXXL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8710997410123</id>
+      <title>3XL / Light Grey</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>Shades of Blvck Shorts Grey XXXL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blvck.com/en-ca/products/5012540522598</id>
+    <published>2023-12-19T21:20:50+01:00</published>
+    <updated>2023-12-19T21:20:50+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/exclusive-whte-jersey"/>
+    <title>Exclusive Whte Jersey</title>
+    <s:type>Tees</s:type>
+    <s:vendor>Whte Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/products/produit_8d350990-2b7b-4809-b878-bc77229c78a3.jpg?v=1630169242"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whte Paris<br>
+        <strong>Type: </strong>Tees<br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">The 'Exclusive Whte Jersey' features a handstitched logo on the chest and a button-up design that gives a defining look to any outfit. It's perfect for a casual, laidback look or to be added as a signature piece to a stylish outfit.</p>
+<p data-mce-fragment="1">Made<span data-mce-fragment="1"> </span>from<span data-mce-fragment="1"> </span>Polyester, the Jersey is soft to the touch and perfect for everyday wear.</p>
+<p data-mce-fragment="1">Unisex fit. Fits true to jersey size.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>jersey</s:tag>
+    <s:tag>jersey-image-size</s:tag>
+    <s:tag>jerseys</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>whte</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/5012540522598</id>
+      <title>XS</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>WHTE Jersey - XS</s:sku>
+      <s:grams>323</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/5012540522598</id>
+      <title>S</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>WHTE Jersey - S</s:sku>
+      <s:grams>380</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/5012540522598</id>
+      <title>M</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>WHTE Jersey - M</s:sku>
+      <s:grams>357</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/5012540522598</id>
+      <title>L</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>WHTE Jersey - L</s:sku>
+      <s:grams>366</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/5012540522598</id>
+      <title>XL</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>WHTE Jersey - XL</s:sku>
+      <s:grams>394</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/5012540522598</id>
+      <title>XXL</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>32293862965350</s:sku>
+      <s:grams>331</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blvck.com/en-ca/products/8594086658379</id>
+    <published>2023-12-08T18:21:16+01:00</published>
+    <updated>2023-12-08T18:21:16+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/blvck-gradient-hoodie"/>
+    <title>Blvck Gradient Hoodie</title>
+    <s:type>Hoodies &amp; Sweaters</s:type>
+    <s:vendor>Blvck Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/files/front_grey_e7fa267f-ab28-4db8-bf0d-cf35962e11a4.png?v=1711636420"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blvck Paris<br>
+        <strong>Type: </strong>Hoodies &amp; Sweaters<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"> The Blvck Gradient Hoodie titillates the eyes with its subtle ombré, featuring a spectrum from dark to light grey, and a nonchalant, roomy silhouette.</p>
+<p data-mce-fragment="1">Crafted from french terry cotton, it lends a perfect fit for whichever activity the day may bring.</p>
+<p data-mce-fragment="1">This piece boasts an oversized fit.</p>
+<p data-mce-fragment="1"><meta charset="utf-8"><span data-mce-fragment="1">The model is wearing a size XL and is </span><span data-mce-fragment="1">1m86</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hoodie+sweater</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>ready-to-wear</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8594086658379</id>
+      <title>XS</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>Blvck Gradient Hoodie XS</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8594086658379</id>
+      <title>S</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>Blvck Gradient Hoodie S</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8594086658379</id>
+      <title>M</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>Blvck Gradient Hoodie M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8594086658379</id>
+      <title>L</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>Blvck Gradient Hoodie L</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8594086658379</id>
+      <title>XL</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>Blvck Gradient Hoodie XL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8594086658379</id>
+      <title>2XL</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>Blvck Gradient Hoodie XXL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8594086658379</id>
+      <title>3XL</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>Blvck Gradient Hoodie XXXL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blvck.com/en-ca/products/8621636288843</id>
+    <published>2023-11-27T14:22:59+01:00</published>
+    <updated>2023-11-27T14:22:59+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/blvck-x-psg-tee"/>
+    <title>Blvck x PSG Tee</title>
+    <s:type>Tees</s:type>
+    <s:vendor>Blvck Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/files/Front_766706e2-fe0d-4d22-911a-27f6ecf73701.jpg?v=1695882293"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blvck Paris<br>
+        <strong>Type: </strong>Tees<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><em><strong></strong></em><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">This must-have 'Blvck x PSG' tee adds a sleek touch to your wardrobe, with both the PSG and BLVCK logo elegantly printed on the chest and the PSG emblem featured in bold black rubber print at the back. Delicately crafted from soft terry, it's an ideal addition for everyday wear, allowing you to achieve the minimalist look effortlessly. Oversized fit.</span><br></p>
+<p>Model is 1m86 and is wearing a size XL.</p>
+<p data-mce-fragment="1"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>_badge_new</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>ready-to-wear</s:tag>
+    <s:tag>shirt</s:tag>
+    <s:tag>T-shirt</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8621636288843</id>
+      <title>XS</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>BLVCKxPSG Tee XS</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8621636288843</id>
+      <title>S</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>BLVCKxPSG Tee S</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8621636288843</id>
+      <title>M</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>BLVCKxPSG Tee M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8621636288843</id>
+      <title>L</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>BLVCKxPSG Tee L</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8621636288843</id>
+      <title>XL</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>BLVCKxPSG Tee XL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8621636288843</id>
+      <title>2XL</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>BLVCKxPSG Tee XXL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8621636288843</id>
+      <title>3XL</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>BLVCKxPSG Tee XXXL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blvck.com/en-ca/products/8621640089931</id>
+    <published>2023-11-27T14:22:51+01:00</published>
+    <updated>2023-11-27T14:22:51+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/blvck-x-psg-scarf"/>
+    <title>Blvck x PSG Scarf</title>
+    <s:type>Hoodies &amp; Sweaters</s:type>
+    <s:vendor>Blvck Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/files/front_7dd5835b-f597-4d1c-8eca-652ed528e68d.jpg?v=1695882624"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blvck Paris<br>
+        <strong>Type: </strong>Hoodies &amp; Sweaters<br>
+        <strong>Price: </strong>
+            110.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><em><strong></strong></em><span data-mce-fragment="1">The 'Blvck X PSG' scarf features unmistakable logos of the renowned brands, artfully crafted in a timeless silhouette with finely tailored edges in a stunning monochromatic hue. Sumptuously crafted from wool, this piece of apparel affords exceptional comfort and warmth.</span></p>
+<p class="pa1 product-description" data-mce-fragment="1"><span data-mce-fragment="1">200*32cm</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>_badge_new</s:tag>
+    <s:tag>accessorie</s:tag>
+    <s:tag>accessories</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>ready-to-wear</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8621640089931</id>
+      <title>Default Title</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>BLVCKxPSG Scarf</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://blvck.com/en-ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://blvck.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://blvck.com/en-ca/collections/accessories.atom"/>
+  <title>Blvck</title>
+  <updated>2024-04-16T15:11:51+02:00</updated>
+  <author>
+    <name>Blvck</name>
+  </author>
+  <entry>
+    <id>https://blvck.com/en-ca/products/8813245235531</id>
+    <published>2024-04-16T15:11:51+02:00</published>
+    <updated>2024-04-16T15:11:51+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/blvck-cash-cannon"/>
+    <title>Blvck Cash Cannon</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Blvck Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/files/5_f4fc10ef-18ef-46ef-87cb-07587310bf8b.jpg?v=1713273072"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blvck Paris<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            15.00 - 90.00
+            <a href="https://blvck.com/en-ca/products/blvck-cash-cannon">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div></div>
+<p>Unveiling the Blvck Cash Cannon: an elegant weapon that unleashes an avalanche of notes. Included are 100 Blvck Teddy notes, making it the ultimate party accessory for sending bills soaring through the air. Get creative and fill it with flyers, coupons or other exclusive items. </p>
+<p>The deluxe Black Cash Cannon is elegantly presented in a stylish Black Box and comes with a set of refined notes.</p>
+<p>Additionally, you have the opportunity to purchase extra refills of 100 notes.</p>
+<p> </p>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>_badge_new</s:tag>
+    <s:tag>accessorie</s:tag>
+    <s:tag>accessories</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8813245235531</id>
+      <title>Blvck Cash Cannon</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>Blvck M Sho</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8813245235531</id>
+      <title>Teddy notes refills</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>Blvck M Toy</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blvck.com/en-ca/products/8798011883851</id>
+    <published>2024-03-21T09:40:32+01:00</published>
+    <updated>2024-03-21T09:40:32+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/blvck-x-memeland-notebook"/>
+    <title>Blvck x Memeland Notebook</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Blvck Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/files/Packaging.png?v=1711040500"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blvck Paris<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Step up your note-taking game with the luxe <strong data-mce-fragment="1">'Blvck x Memeland' Notebook</strong>.</p>
+<p data-mce-fragment="1">Crafted with a knock-out hardback design and soft-touch, matte black finish, this notebook will be the envy of everyone.</p>
+<p data-mce-fragment="1">You'll find 128 blank pages (80gsm paper) inside with lines to be able to easily draw or write your thoughts. We've even thrown in 7 pencils so you can get started right away. -</p>
+<p data-mce-fragment="1">Blvck A5 Notebook: 128 Pages &amp; Size: A5 format</p>
+<p data-mce-fragment="1">With this notebook, taking notes, creating art, or drawing will be a luxurious treat for your hands.</p>
+<p data-mce-fragment="1"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessorie</s:tag>
+    <s:tag>accessories</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8798011883851</id>
+      <title>Default Title</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>BLVCKXMEMELAND Notebook</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blvck.com/en-ca/products/8512369819979</id>
+    <published>2024-03-10T16:55:34+01:00</published>
+    <updated>2024-03-10T16:55:34+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/blvck-branded-bucket-hat"/>
+    <title>Blvck Reversible Bucket Hat</title>
+    <s:type>Headwear</s:type>
+    <s:vendor>Blvck Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/files/02_2c2f4c43-7775-4af4-847b-3604d0ffb6ee.jpg?v=1689144464"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blvck Paris<br>
+        <strong>Type: </strong>Headwear<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Channeling a Blvck summer style, the Blvck Branded Bucket hat is reversible with one minimalistic side with the Blvck logo on it and the other side full monogram in UV glossy black for an effortlessly cool feel. It's detailed with black logo straps<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">One size fits most. Comes with a size adjuster.<br data-mce-fragment="1"><br data-mce-fragment="1">100% Nylon.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessorie</s:tag>
+    <s:tag>accessories</s:tag>
+    <s:tag>headware</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>ready-to-wear</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8512369819979</id>
+      <title>Default Title</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>Blvck Branded Bucket Hat</s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blvck.com/en-ca/products/6848185565286</id>
+    <published>2024-02-29T17:20:39+01:00</published>
+    <updated>2024-02-29T17:20:39+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/blvck-business-card"/>
+    <title>Blvck Business Card</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Blvck Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/files/card_cropped.jpg?v=1682863362"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blvck Paris<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;"><meta charset="utf-8"> Product is personalised and made on demand. Shipping takes 3-4 weeks from the order.</span></p>
+<p data-mce-fragment="1"><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">Introducing a sleek, minimalistic Blvck Business Card with fully integrated NFC technology.</span><br></p>
+<p data-mce-fragment="1">Personalise your card in the Blvck Style and make a lasting impression. <strong> </strong></p>
+<p data-mce-fragment="1">Our business cards are the perfect way to communicate with new friends and potential business connections alike - giving you complete marketing and networking versatility. Now you are no longer confined to the four corners of a paper business card. You can instantly share contact details, websites, socials, videos and much more.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">How to install it: </strong></p>
+<p data-mce-fragment="1"><span>Step 1</span>: Purchase your Blvck NFC Card and customise it with the name you would like it to appear on the card. Once purchased, look out for a confirmation email from us. </p>
+<p data-mce-fragment="1"><span>Step 2</span>: Set Up your Blvck Profile. Add your contact details, social media accounts and more.</p>
+<p data-mce-fragment="1"><meta charset="utf-8"><span>Step 3</span><span> Receive your card &amp; start tapping. </span></p>
+<p data-mce-fragment="1">Refer to our blog post on how to activate your card once received, here. </p>
+<p data-mce-fragment="1"><strong>Benefits of a Blvck NFC Business Card:</strong></p>
+<p data-mce-fragment="1"><strong>- <meta charset="utf-8"></strong>Share your details instantly in just one tap. </p>
+<p data-mce-fragment="1">- Edit your contact details anytime online without having to print countless business cards.</p>
+<p>- Eco-friendly.</p>
+<p>- Make a lasting impression. Impress your new connections with this card. </p>
+<p data-mce-fragment="1"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>_badge_new</s:tag>
+    <s:tag>accessorie</s:tag>
+    <s:tag>accessories</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6848185565286</id>
+      <title>Default Title</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>Blvck NFC Card</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blvck.com/en-ca/products/8711005339979</id>
+    <published>2024-02-02T17:42:52+01:00</published>
+    <updated>2024-02-02T17:42:52+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/bold-pet-hoodie"/>
+    <title>Bold Pet Hoodie</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Blvck Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/files/01_993d1d6e-b0bd-469d-8eaf-050f317f2a6e.png?v=1706892164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blvck Paris<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p>Introducing the first pet collection of our 'Essential' Blvck clothing for pets. Our 'Bold Hoodie' features a logo on the back that gives a defining look to any outfit.</p>
+<p>Made<span> </span>from luxurious 100% Terry Cotton, all our hoodies are super soft to the touch and perfect for everyday wear.</p>
+<p><span style="text-decoration: underline;" data-mce-style="text-decoration: underline;"><strong>Size Guide</strong></span></p>
+<span style="text-decoration: underline;" data-mce-style="text-decoration: underline;"><strong> <meta charset="utf-8"> </strong></span>
+<div>
+<p> <meta charset="utf-8">1. Please measure the size of your dog and compare to the size chart before placing an order</p>
+<p>2. P<meta charset="utf-8">lease size up if your dog’s size is between two sizes</p>
+<div>
+<table width="806">
+<tbody>
+<tr>
+<td width="152">IN CM</td>
+<td width="103">XS</td>
+<td width="103">S</td>
+<td width="112">M</td>
+<td width="112">L</td>
+<td width="112">XL</td>
+<td width="112">XXL</td>
+</tr>
+<tr>
+<td>Back length</td>
+<td>28</td>
+<td>31</td>
+<td>34</td>
+<td>39</td>
+<td>44</td>
+<td>49</td>
+</tr>
+<tr>
+<td>front length</td>
+<td>18</td>
+<td>21</td>
+<td>24</td>
+<td>29</td>
+<td>34</td>
+<td>39</td>
+</tr>
+<tr>
+<td>chest</td>
+<td>35</td>
+<td>40</td>
+<td>48</td>
+<td>59</td>
+<td>70</td>
+<td>81</td>
+</tr>
+<tr>
+<td>sleeve length</td>
+<td>12.5</td>
+<td>13.5</td>
+<td>15</td>
+<td>17.5</td>
+<td>20</td>
+<td>23</td>
+</tr>
+<tr>
+<td>In Inch</td>
+<td>XS</td>
+<td>S</td>
+<td>M</td>
+<td>L</td>
+<td>XL</td>
+<td>XXL</td>
+</tr>
+<tr>
+<td>Back length </td>
+<td>11</td>
+<td>12</td>
+<td>13</td>
+<td>15</td>
+<td>17</td>
+<td>19.5</td>
+</tr>
+<tr>
+<td>Chest</td>
+<td>14</td>
+<td>16</td>
+<td>19</td>
+<td>23</td>
+<td>28</td>
+<td>32</td>
+</tr>
+<tr>
+<td>Weight lbs</td>
+<td>Up to 5lbs</td>
+<td>Up to 8lbs</td>
+<td>Up to 15lbs</td>
+<td>Up to 25lbs</td>
+<td>Up to 40lbs</td>
+<td>Up to 55lbs</td>
+</tr>
+<tr>
+<td>Weight kg</td>
+<td>2</td>
+<td>4</td>
+<td>7</td>
+<td>11</td>
+<td>18</td>
+<td>25</td>
+</tr>
+</tbody>
+</table>
+</div>
+<br>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>_badge_new</s:tag>
+    <s:tag>accessorie</s:tag>
+    <s:tag>accessories</s:tag>
+    <s:tag>lifestyle</s:tag>
+    <s:tag>Pet Accessories</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8711005339979</id>
+      <title>XS</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>Blvck Pet Hoodie XS</s:sku>
+      <s:grams>699</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8711005339979</id>
+      <title>S</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>Blvck Pet Hoodie S</s:sku>
+      <s:grams>699</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8711005339979</id>
+      <title>M</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>Blvck Pet Hoodie M</s:sku>
+      <s:grams>699</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8711005339979</id>
+      <title>L</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>Blvck Pet Hoodie L</s:sku>
+      <s:grams>699</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8711005339979</id>
+      <title>XL</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>Blvck Pet Hoodie XL</s:sku>
+      <s:grams>699</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blvck.com/en-ca/products/8704743145803</id>
+    <published>2024-01-15T11:32:41+01:00</published>
+    <updated>2024-01-15T11:32:41+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/blvck-lilith-bag"/>
+    <title>Blvck Lilith Bag</title>
+    <s:type>Bags &amp; Leather</s:type>
+    <s:vendor>Blvck Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/files/01_f9ac35f9-8b4e-4232-9c69-87dca2e9d7ad.jpg?v=1705314680"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blvck Paris<br>
+        <strong>Type: </strong>Bags &amp; Leather<br>
+        <strong>Price: </strong>
+            300.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blvck is thrilled to unveil the signature 'Blvck Lilith Bag', crafted from luxurious leather to carry all your daily necessities.</p>
+<p class="the-product-details__description">Experience the ultimate style and function with our Blvck Lilith Bag. Crafted from luxurious black leather, this leather bag features a striking customized metal plate featuring our iconic Blvck Paris logo. Elevate your look and make a statement with every step.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>_badge_new</s:tag>
+    <s:tag>accessorie</s:tag>
+    <s:tag>accessories</s:tag>
+    <s:tag>ready-to-wear</s:tag>
+    <s:tag>women</s:tag>
+    <s:tag>womens</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8704743145803</id>
+      <title>Default Title</title>
+      <s:price currency="USD">300.00</s:price>
+      <s:sku>Blvck Lilith Bag</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blvck.com/en-ca/products/8711021560139</id>
+    <published>2024-01-14T11:08:53+01:00</published>
+    <updated>2024-01-14T11:08:53+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/blvck-monogram-macbook-skin"/>
+    <title>Blvck Monogram MacBook Skin</title>
+    <s:type>High-Tech</s:type>
+    <s:vendor>Blvck Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/files/01_5a14fd65-1898-494c-9d62-363e5f5f7b22.png?v=1705226913"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blvck Paris<br>
+        <strong>Type: </strong>High-Tech<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>With the Blvck Monogram MacBook Skin, your device will never look the same. Made from premium materials, and laser cut to offer the best fit the Blvck MacBook Skin adds a touch of elegance to an otherwise generic design.</p>
+<p>Upgrade your lifestyle today and wrap your MacBook in our luxurious Blvck MacBook Skin! </p>
+<p><strong>Please note that this is a skin that you apply as a sticker to your MacBook (not a case) and that a spacing of 1-2mm may be visible on the edges once applied.</strong></p>
+<div><strong>Package Included</strong></div>
+<div><span>-One top body skin Cover</span></div>
+<div>
+<span>-One keyboard/trackpad surround cover</span><span><br></span>
+</div>
+<div>
+<span>-</span><span>One bottom skin Cover</span>
+</div>
+<ul></ul>
+<br><center>
+<div class="hytPlayerWrapOuter">
+<div class="hytPlayerWrap"><iframe src="https://www.youtube.com/embed/XgMfd5-339c?rel=0&amp;enablejsapi=1" height="500" width="500" frameborder="0"></iframe></div>
+</div>
+<script>// <![CDATA[
+"use strict"; document.addEventListener('DOMContentLoaded', function(){if (window.hideYTActivated) return; let onYouTubeIframeAPIReadyCallbacks=[]; for (let playerWrap of document.querySelectorAll(".hytPlayerWrap")){let playerFrame=playerWrap.querySelector("iframe"); let tag=document.createElement('script'); tag.src="https://www.youtube.com/iframe_api"; let firstScriptTag=document.getElementsByTagName('script')[0]; firstScriptTag.parentNode.insertBefore(tag, firstScriptTag); let onPlayerStateChange=function(event){if (event.data==YT.PlayerState.ENDED){playerWrap.classList.add("ended");}else if (event.data==YT.PlayerState.PAUSED){playerWrap.classList.add("paused");}else if (event.data==YT.PlayerState.PLAYING){playerWrap.classList.remove("ended"); playerWrap.classList.remove("paused");}}; let player; onYouTubeIframeAPIReadyCallbacks.push(function(){player=new YT.Player(playerFrame,{events:{'onStateChange': onPlayerStateChange}});}); playerWrap.addEventListener("click", function(){let playerState=player.getPlayerState(); if (playerState==YT.PlayerState.ENDED){player.seekTo(0);}else if (playerState==YT.PlayerState.PAUSED){player.playVideo();}});}window.onYouTubeIframeAPIReady=function(){for (let callback of onYouTubeIframeAPIReadyCallbacks){callback();}}; window.hideYTActivated=true;});
+// ]]]]><![CDATA[></script>
+</center></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>_badge_new</s:tag>
+    <s:tag>_upsell_blvck-playing-cards_29378893217894</s:tag>
+    <s:tag>accessorie</s:tag>
+    <s:tag>accessories</s:tag>
+    <s:tag>bestsellers_men</s:tag>
+    <s:tag>Blvck_01_test</s:tag>
+    <s:tag>high-tech</s:tag>
+    <s:tag>hightech</s:tag>
+    <s:tag>home</s:tag>
+    <s:tag>macbook-skin</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>women</s:tag>
+    <s:tag>womens</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8711021560139</id>
+      <title>Blvck Monogram MacBook Pro Skin 16.2 2021-2023</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>Blvck Mono Mac Pro Skin 16 M3</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8711021560139</id>
+      <title>Blvck Monogram MacBook Pro Skin 14.2 2021-2023</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>Blvck Mono Mac Pro Skin 14 M3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8711021560139</id>
+      <title>Blvck Monogram MacBook Air Skin 15.3 2023</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>Blvck Mono Mac Air Skin 15 M2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8711021560139</id>
+      <title>Blvck Monogram MacBook Air Skin 13.6 2022</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>Blvck Mono Mac Air Skin 13 M2</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8711021560139</id>
+      <title>Blvck Monogram MacBook Air 13.3 Skin Touchbar 2020-2022</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>Blvck Mono Mac Air Skin TBar 13 M2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blvck.com/en-ca/products/8671259459915</id>
+    <published>2023-12-14T17:09:41+01:00</published>
+    <updated>2023-12-14T17:09:41+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/blvck-sunglasses"/>
+    <title>Blvck Sunglasses</title>
+    <s:type></s:type>
+    <s:vendor>Blvck Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/files/01_5a765263-de19-4143-aa30-0c8666502fb8.png?v=1704231717"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blvck Paris<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">Introducing the Blvck Sunglasses, our first collection of sunnies, available in three different shades: Black, Brown and Green. With a subtle snake detail on the side. Introducing our Blvck Sunglasses - the ultimate blend of style and distinctive touches! Whether in Black, Brown, or Green, these sunnies add an undeniable edge to any look. Be prepared to make a statement like never before!</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessorie</s:tag>
+    <s:tag>accessories</s:tag>
+    <s:tag>ready-to-wear</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8671259459915</id>
+      <title>Black</title>
+      <s:price currency="USD">240.00</s:price>
+      <s:sku>BLK01 BLACK</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8671259459915</id>
+      <title>Brown</title>
+      <s:price currency="USD">240.00</s:price>
+      <s:sku>BLK01 WARM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8671259459915</id>
+      <title>Green</title>
+      <s:price currency="USD">240.00</s:price>
+      <s:sku>BLK01 GREEN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blvck.com/en-ca/products/8671257985355</id>
+    <published>2023-11-30T06:13:15+01:00</published>
+    <updated>2023-11-30T06:13:15+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/blvck-christmas-stocking"/>
+    <title>Blvck Christmas Stocking</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Blvck Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/files/IMG_1044.png?v=1700467099"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blvck Paris<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"> </p>
+Perched atop the mantel, or decorating presents under the festive bough, our velvet and faux fur Blvck Christmas Stocking is sure to spread the holiday merriment.
+<p> </p>
+<p><meta charset="utf-8">Size: 45cm x 21.5cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessorie</s:tag>
+    <s:tag>accessories</s:tag>
+    <s:tag>home</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8671257985355</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>Blvck Christmas Stocking</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blvck.com/en-ca/products/8657800986955</id>
+    <published>2023-11-27T14:23:35+01:00</published>
+    <updated>2023-11-27T14:23:35+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/blvck-x-psg-welcome-mat"/>
+    <title>Blvck x PSG Welcome Mat</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Blvck Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/files/IMG_0911.png?v=1699980260"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blvck Paris<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            110.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><em><strong></strong></em>Enter your home and wipe your feet in style with the 'Blvck x PSG Welcome Mat'. Perfect for indoor use. <br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><meta charset="utf-8"><span data-mce-fragment="1">It features the PSG slogan 'Ici C'est Paris'.</span></p>
+<div class="page" title="Page 6">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p><span>Nylon surface and nitrile rubber backing<br> </span></p>
+</div>
+</div>
+</div>
+</div>
+<p data-mce-fragment="1">Dimension: H45 x W 75 x D 1.5 cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>_badge_new</s:tag>
+    <s:tag>accessorie</s:tag>
+    <s:tag>accessories</s:tag>
+    <s:tag>home</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8657800986955</id>
+      <title>Default Title</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>BLVCKxPSG Mat</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blvck.com/en-ca/products/8621640089931</id>
+    <published>2023-11-27T14:22:51+01:00</published>
+    <updated>2023-11-27T14:22:51+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/blvck-x-psg-scarf"/>
+    <title>Blvck x PSG Scarf</title>
+    <s:type>Hoodies &amp; Sweaters</s:type>
+    <s:vendor>Blvck Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/files/front_7dd5835b-f597-4d1c-8eca-652ed528e68d.jpg?v=1695882624"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blvck Paris<br>
+        <strong>Type: </strong>Hoodies &amp; Sweaters<br>
+        <strong>Price: </strong>
+            110.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><em><strong></strong></em><span data-mce-fragment="1">The 'Blvck X PSG' scarf features unmistakable logos of the renowned brands, artfully crafted in a timeless silhouette with finely tailored edges in a stunning monochromatic hue. Sumptuously crafted from wool, this piece of apparel affords exceptional comfort and warmth.</span></p>
+<p class="pa1 product-description" data-mce-fragment="1"><span data-mce-fragment="1">200*32cm</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>_badge_new</s:tag>
+    <s:tag>accessorie</s:tag>
+    <s:tag>accessories</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>ready-to-wear</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8621640089931</id>
+      <title>Default Title</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>BLVCKxPSG Scarf</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blvck.com/en-ca/products/8657801544011</id>
+    <published>2023-11-27T14:10:52+01:00</published>
+    <updated>2023-11-27T14:10:52+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/blvck-x-psg-football"/>
+    <title>Blvck x PSG Football</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Blvck Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/files/BLACKNOV09472.png?v=1701537231"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blvck Paris<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Play with your new favorite 'Blvck x PSG' soccer ball. <br></p>
+<p data-mce-fragment="1">Perfect as a gift, a collectible or to shoot some hoops... .</p>
+<div data-mce-fragment="1" class="page" title="Page 5">
+<div data-mce-fragment="1" class="section">
+<div data-mce-fragment="1" class="layoutArea">
+<div data-mce-fragment="1" class="column">
+<p data-mce-fragment="1"><span data-mce-fragment="1">High-end standard Size 5 soccer machine sewing Soccer ball 2.7mm leather and 0.38 EVA ; 28% rubber bladder three-layers bladder; training style football<br data-mce-fragment="1"></span></p>
+</div>
+</div>
+</div>
+</div>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Please note that it comes deflated. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>_badge_new</s:tag>
+    <s:tag>accessorie</s:tag>
+    <s:tag>accessories</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8657801544011</id>
+      <title>Default Title</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>BLVCKxPSG Football</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blvck.com/en-ca/products/4888035721318</id>
+    <published>2023-11-27T09:49:28+01:00</published>
+    <updated>2023-11-27T09:49:28+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/blvck-hat"/>
+    <title>Blvck Bucket Hat</title>
+    <s:type>Headwear</s:type>
+    <s:vendor>Blvck Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/products/03_13ff8c20-7554-41a7-8d5a-bb0334fdecc7.jpg?v=1685371609"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blvck Paris<br>
+        <strong>Type: </strong>Headwear<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="description">The Blvck Bucket Hat features the Blvck Paris logo in embroidery on the front that gives a defining look to any outfit.</p>
+<p>One Size fits most. Comes with a size adjuster.</p>
+<p><span>100% Nylon.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>bestsellers_men</s:tag>
+    <s:tag>bestsellers_women</s:tag>
+    <s:tag>hat</s:tag>
+    <s:tag>headware</s:tag>
+    <s:tag>lifestyle</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>secondaryimage</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/4888035721318</id>
+      <title>Black</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>BLVCK Hat</s:sku>
+      <s:grams>102</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/4888035721318</id>
+      <title>White</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>WHTE Bucket Hat</s:sku>
+      <s:grams>116</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blvck.com/en-ca/products/8593396924747</id>
+    <published>2023-11-24T15:48:48+01:00</published>
+    <updated>2023-11-24T15:48:48+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/blvck-coffee-cup"/>
+    <title>Blvck Coffee Cup</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Blvck Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/files/Screenshot2023-09-29at15.38.53.png?v=1700841621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blvck Paris<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"> Indulge in an exclusive expression of the 'All Black' lifestyle with the latest arrival of the Blvck Coffee Cup. Get a taste of superior elegance while sipping your favorite beverage from this impeccable, all-black mug crafted with you in mind. This modern tumbler sports insulated stainless steel construction to keep your drinks piping hot or icy cold for up to 24 hours. Bye-bye to mundane mugs; arrive to that next level of the Blvck lifestyle.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Product Detail</strong></p>
+<p data-mce-fragment="1">Made from premium stainless steel and coated in our beautiful, soft-touch, matte black finish.<br data-mce-fragment="1">500ML<br data-mce-fragment="1"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>_badge_new</s:tag>
+    <s:tag>accessorie</s:tag>
+    <s:tag>accessories</s:tag>
+    <s:tag>home</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8593396924747</id>
+      <title>Default Title</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>Blvck Coffee Cup</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blvck.com/en-ca/products/8657844207947</id>
+    <published>2023-11-22T14:18:00+01:00</published>
+    <updated>2023-11-22T14:18:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/blvck-teddy-christmas-keychain"/>
+    <title>Blvck Teddy Christmas Keychain</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Blvck Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/files/IMG_1033.png?v=1700141512"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blvck Paris<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">The limited festive edition of the 'Blvck Evil Teddy Christmas Keyring' ensures that you can bring a piece of luxury wherever you go. Crafted from the softest 100% cotton, its branded black hoodie and elegant details bring out its stylish 'All Black' look. An ideal gift, or a keepsake to be treasured, this plush and charming keyring is sure to please all who are searching for a chic and fashionable accessory.</span></p>
+<p data-mce-fragment="1">Small Blvck Teddy Bear is 4inch/10cm high. The product is handmade and size may slightly vary.</p>
+<p data-mce-fragment="1"><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>home</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>women</s:tag>
+    <s:tag>womens</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8657844207947</id>
+      <title>Default Title</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>Blvck Teddy Christmas Key</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blvck.com/en-ca/products/8657847419211</id>
+    <published>2023-11-20T08:47:22+01:00</published>
+    <updated>2023-11-20T08:47:22+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/blvck-teddy-slipper"/>
+    <title>Blvck Teddy Slippers</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Blvck Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/files/BLACKNOV1072.png?v=1708611874"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blvck Paris<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Part of our home collection, the 'Blvck Teddy Slippers' have been crafted to offer supreme comfort and warmth. Embodying a delightful teddy shape, these slippers are the ideal accompaniment for your leisurewear, informal outfits, or nightwear ensemble.</p>
+<p>Composed of cotton, this pair ensures unbeatable cosiness and lasting quality.</p>
+<p><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">S - M : size 250mm inner ; 280mm outer (240-250mm / 38 - 40)</span><br data-mce-fragment="1"><span data-mce-fragment="1">L - XL : size 280mm inner; 300mm outer (260 - 270mm / 41 - 43)</span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessorie</s:tag>
+    <s:tag>accessories</s:tag>
+    <s:tag>home</s:tag>
+    <s:tag>ready-to-wear</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8657847419211</id>
+      <title>S-M</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>Blvck Teddy Slipper S</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8657847419211</id>
+      <title>L-XL</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>Blvck Teddy Slipper L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blvck.com/en-ca/products/8601168347467</id>
+    <published>2023-11-16T22:53:55+01:00</published>
+    <updated>2023-11-16T22:53:55+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/blvck-padded-wallet"/>
+    <title>Blvck Padded Wallet</title>
+    <s:type>Bags &amp; Leather</s:type>
+    <s:vendor>Blvck Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/files/front_2.png?v=1695305280"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blvck Paris<br>
+        <strong>Type: </strong>Bags &amp; Leather<br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"> </p>
+Introducing our 'Blvck Padded Wallet', a luxurious, debossed emblem adorns the exterior, granting a distinguished appearance to any ensemble. Crafted from Vegan Leather, the wallet comes with a secure all-encompassing zip closure, a spacious main chamber, multiple card slots for easy accessibility, plus inner pockets for additional storage. Slim design allows for ease of placement in pocket.
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><meta charset="utf-8"><span>Size: W 11 x H 8 cm</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessorie</s:tag>
+    <s:tag>accessories</s:tag>
+    <s:tag>bags+leather</s:tag>
+    <s:tag>leather</s:tag>
+    <s:tag>leather_men</s:tag>
+    <s:tag>leather_women</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8601168347467</id>
+      <title>Default Title</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>Blvck Padded Wallet</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blvck.com/en-ca/products/5011277774950</id>
+    <published>2023-10-30T08:04:21+01:00</published>
+    <updated>2023-10-30T08:04:21+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/blvck-calendar-2024"/>
+    <title>Blvck Calendar 2024</title>
+    <s:type>Lifestyle</s:type>
+    <s:vendor>Blvck Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/products/02_824ab752-56d2-4ada-bed6-71e5bbb69223.jpg?v=1685284656"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blvck Paris<br>
+        <strong>Type: </strong>Lifestyle<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our 2024 Blvck Calendars are now in stock! <br></p>
+<p>This all black calendar comes with a magic branded pen. This is a perfect addition to your desk or home to r<span data-mce-fragment="1">emember great moments as the year goes by.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessorie</s:tag>
+    <s:tag>accessories</s:tag>
+    <s:tag>lifestyle</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>women</s:tag>
+    <s:tag>womens</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/5011277774950</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>BLVCK Calendar</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blvck.com/en-ca/products/8593255203147</id>
+    <published>2023-10-06T09:12:38+02:00</published>
+    <updated>2023-10-06T09:12:38+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/blvck-x-keith-square-pillowcase"/>
+    <title>&apos;Blvck x Keith Haring&apos; Square Pillowcase</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Blvck Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/files/front_bfd9ea40-927b-4032-ae51-55afee81a555.jpg?v=1693216190"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blvck Paris<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"> </p>
+<p>Give your living room a luxurious touch with the 'Blvck x Keith Haring' Square Pillowcase. Featuring a visually striking image from the collection, this accessory is sure to add an impactful touch to any living space.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Specifics:</strong></p>
+<p data-mce-fragment="1"><meta charset="utf-8">Pillowcase 40x40cm</p>
+<p data-mce-fragment="1">100% Polyester</p>
+<p data-mce-fragment="1">Blvck Monogram UV printing</p>
+<p data-mce-fragment="1"><em data-mce-fragment="1"><strong data-mce-fragment="1">This is a cover and does not come with a pillow. </strong></em></p>
+<p><em><span>© Keith Haring Foundation</span></em><span>. <em>Licensed by Artestar, New York.</em> <em> </em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessorie</s:tag>
+    <s:tag>accessories</s:tag>
+    <s:tag>home</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8593255203147</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>BLVCKXKEITH Cushion</s:sku>
+      <s:grams>376</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blvck.com/en-ca/products/8622990983499</id>
+    <published>2023-10-06T09:12:24+02:00</published>
+    <updated>2023-10-06T09:12:24+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/blvck-x-keith-haring-skateboard"/>
+    <title>&apos;Blvck x Keith Haring&apos; Skateboard</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Blvck Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/files/Front_a0cf0908-13ab-436d-9dd5-4bfffb713d5d.jpg?v=1695906178"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blvck Paris<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span data-mce-fragment="1">Unveil the opulence of 'Blvck x Keith Haring' Skateboard, a domestic luxury item. Experience the sleek matte black exterior coupled with stunning black UV illustrations.</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Specifics:</strong></p>
+<p data-mce-fragment="1"><meta charset="utf-8">Size: 80 * 20 cm</p>
+<p data-mce-fragment="1">Material: 7 layers Canadian maple</p>
+<p data-mce-fragment="1">custom design on back and front, comes with black wall hook</p>
+<p data-mce-fragment="1"><em data-mce-fragment="1"><span data-mce-fragment="1">© Keith Haring Foundation</span></em><span data-mce-fragment="1">. <em data-mce-fragment="1">Licensed by Artestar, New York.</em> <em data-mce-fragment="1"> </em></span></p>
+<p data-mce-fragment="1"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessorie</s:tag>
+    <s:tag>accessories</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>ready-to-wear</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8622990983499</id>
+      <title>Default Title</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku>BLVCKXKEITH Skateboard</s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blvck.com/en-ca/products/8593252974923</id>
+    <published>2023-10-06T09:11:54+02:00</published>
+    <updated>2023-10-06T09:11:54+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/blvck-x-keith-haring-notebook"/>
+    <title>&apos;Blvck x Keith Haring&apos; Notebook</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Blvck Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/files/IMG_9110.png?v=1695199030"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blvck Paris<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"> Step up your note-taking game with the luxe<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">'Blvck x Keith Haring' Notebook</strong>.</p>
+<p data-mce-fragment="1">Crafted with a knock-out hardback design and soft-touch, matte black finish, this notebook will be the envy of everyone.</p>
+<p data-mce-fragment="1">The front cover features a popular image by Keith Haring with a mesmerizing rainbow finish.</p>
+<p data-mce-fragment="1">You'll find 128 blank pages (80gsm paper) inside with a built-in silk bookmark for effortless page-flipping. We've even thrown in our premium 'Silver Gel Pen' and 'Gold Gel Pen' so you can get started right away. -</p>
+<p data-mce-fragment="1">Blvck A5 Notebook: 128 Pages &amp; Size: A5 format</p>
+<p data-mce-fragment="1">With this notebook, taking notes, creating art, or drawing will be a luxurious treat for your hands.</p>
+<p><em><span>© Keith Haring Foundation</span></em><span>. <em>Licensed by Artestar, New York.</em> <em> </em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessorie</s:tag>
+    <s:tag>accessories</s:tag>
+    <s:tag>home</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8593252974923</id>
+      <title>Default Title</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>BLVCKXKEITH Notebook</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blvck.com/en-ca/products/8593259397451</id>
+    <published>2023-10-06T09:10:29+02:00</published>
+    <updated>2023-10-06T09:10:29+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/blvck-x-keith-haring-love-cap"/>
+    <title>&apos;Blvck x Keith Haring&apos; Love Cap</title>
+    <s:type>Headwear</s:type>
+    <s:vendor>Blvck Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/files/side.jpg?v=1693216856"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blvck Paris<br>
+        <strong>Type: </strong>Headwear<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"> </p>
+<p>This 'Blvck x Keith Haring' Love Cap is crafted with 100% Cotton for long-lasting quality. The imagery on the front adds a one-of-a-kind look to any style.</p>
+<p>An adjustable fit helps ensure a comfortable fit for anyone.</p>
+<p><em><span>© Keith Haring Foundation</span></em><span>. <em>Licensed by Artestar, New York.</em> <em> </em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessorie</s:tag>
+    <s:tag>accessories</s:tag>
+    <s:tag>hat</s:tag>
+    <s:tag>headware</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8593259397451</id>
+      <title>Default Title</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>BLVCKXKEITH LOVE CAP</s:sku>
+      <s:grams>218</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blvck.com/en-ca/products/8593238262091</id>
+    <published>2023-10-06T09:07:21+02:00</published>
+    <updated>2023-10-06T09:07:21+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/blvck-x-keith-candle"/>
+    <title>&apos;Blvck x Keith Haring&apos; Candle</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Blvck Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/files/IMG_9024.png?v=1695198905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blvck Paris<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span data-mce-fragment="1">Discover the 'Blvck x Keith Haring' candle, a 8.8 x 10cm luxury home accessory that breathes aromatic velvet rose. Revel in the matte black external with delicate rainbow UV details and black wax.</span></p>
+<p data-mce-fragment="1"><strong>Specifics:</strong></p>
+<p data-mce-fragment="1">Jar size is 8.8cmx10cm</p>
+<p data-mce-fragment="1"><meta charset="utf-8">Label : 5.5 x 4.5cm</p>
+<p data-mce-fragment="1">Wax weigh is 290g, black wax, black wicks<br data-mce-fragment="1">The scent is velvet rose bud</p>
+<p><em><span>© Keith Haring Foundation</span></em><span>. <em>Licensed by Artestar, New York.</em> <em> </em></span></p>
+<p data-mce-fragment="1"><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessorie</s:tag>
+    <s:tag>accessories</s:tag>
+    <s:tag>home</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8593238262091</id>
+      <title>Default Title</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>Blvck x Keith Candle</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blvck.com/en-ca/products/8624962175307</id>
+    <published>2023-09-30T20:52:45+02:00</published>
+    <updated>2023-09-30T20:52:45+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/blvck-suede-bucket-hat-m"/>
+    <title>Blvck Suede Bucket Hat</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Blvck Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/files/front_07aa4f2e-f3e3-4095-b24a-3e2288e9f30f.png?v=1696270190"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blvck Paris<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="description" data-mce-fragment="1"> <span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">The Blvck Suede Bucket Hat boasts the iconic Blvck Paris logo in stylish embroidery, guaranteeing that any ensemble is elevated in stature. Universally accommodating, this one-size-fits-most design is flip-side reversible, with a velvety suede on one side and luxurious faux fur on the other.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessorie</s:tag>
+    <s:tag>accessories</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>ready-to-wear</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8624962175307</id>
+      <title>Default Title</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>Blvck Suede Bucket Hat</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blvck.com/en-ca/products/8593443553611</id>
+    <published>2023-09-29T13:30:47+02:00</published>
+    <updated>2023-09-29T13:30:47+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/blvck-winter-beanie"/>
+    <title>Blvck Winter Beanie</title>
+    <s:type></s:type>
+    <s:vendor>Blvck Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/files/BLVCK01711.jpg?v=1695987630"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blvck Paris<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Embrace the chill in style with the Blvck Winter Beanie. Its luxurious cotton fabric will ensure you stay cozy and chic, while the blvck paris logo adds a subtle hint of sophistication to your winter wardrobe. Step out in luxury this winter with the Blvck Winter Beanie.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessorie</s:tag>
+    <s:tag>accessories</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>ready-to-wear</s:tag>
+    <s:tag>women</s:tag>
+    <s:tag>womens</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/8593443553611</id>
+      <title>Default Title</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>Blvck Winter Beanie</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+</feed>

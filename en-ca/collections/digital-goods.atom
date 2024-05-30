@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://blvck.com/en-ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://blvck.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://blvck.com/en-ca/collections/digital-goods.atom"/>
+  <title>Blvck</title>
+  <updated>2022-03-29T18:24:55+02:00</updated>
+  <author>
+    <name>Blvck</name>
+  </author>
+  <entry>
+    <id>https://blvck.com/en-ca/products/6707795099750</id>
+    <published>2022-03-29T18:24:55+02:00</published>
+    <updated>2022-03-29T18:24:55+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/blvck-digital-planner"/>
+    <title>Blvck Digital Planner</title>
+    <s:type>Digital</s:type>
+    <s:vendor>Blvck Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/products/1_6f1a5618-b0e1-46fc-943a-df0bf6768c0d.jpg?v=1685284855"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blvck Paris<br>
+        <strong>Type: </strong>Digital<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p><span data-mce-fragment="1">The All-in-one 'Blvck Digital Planner' has been carefully designed to maximize productivity and lifestyle. </span></p>
+<meta charset="UTF-8"><meta charset="utf-8">
+<p><span data-mce-fragment="1">The planner helps you keep track of your yearly goals monthly progress, and daily tasks.</span></p>
+<p> </p>
+<p><span data-mce-fragment="1">Our interactive planner builder lets you mix and match between our aesthetic wallpapers, a dozen of Blvck and Whte digital Stickers, and weekly start date!</span></p>
+<p> </p>
+<p><span data-mce-fragment="1"></span><strong>Digital Planner Highlight:</strong></p>
+<p><span data-mce-fragment="1">- Contains 26 Blvck x Whte Digital Stickers<br></span>- 13 Aesthetic Wallpapers available<br><span data-mce-fragment="1">- Hyperlinks for smooth, effortless navigation<br></span></p>
+<p> </p>
+<p><span data-mce-fragment="1"><strong>The All-in-one digital planner has been designed to be used in conjunction with any PDF annotation app. </strong></span></p>
+<p> </p>
+<p><strong>Follow these steps to install the Digital Planner:</strong></p>
+<p><strong>1) </strong><strong>Download a note-taking app from your tablet/computer. Goodnotes, Notability, Noteshelf and Xodo are best suited.</strong></p>
+<p><strong>2) </strong><span data-mce-fragment="1"><strong>Download your digital agenda, which you will find in PDF format.</strong></span></p>
+<p><span data-mce-fragment="1"><strong>3) Import your digital diary into the previously installed note-taking application.<br><br></strong></span></p>
+<p><span data-mce-fragment="1">If you installed GoodNotes (available on iOS), you can take a look at the following tutorial to get familiar with the app:</span></p>
+<p><span data-mce-fragment="1"><iframe width="560" height="315" src="https://www.youtube.com/embed/Sr0ySFJMe6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></span></p>
+<p><strong>Compatibility Check:</strong></p>
+<p><strong>- </strong><span data-mce-fragment="1">Compatible across Apple, Android, and Windows devices<br>- Compatible with iPads, tablets (not Kindle Fire), desktop (both Windows and Apple) and Laptop computers<br>- Not designed for use with OneNote<br>- Not designed for use with mobile phones</span></p>
+<p><span data-mce-fragment="1"><strong data-mce-fragment="1">Notes:</strong><br>- This is a digital product and as such no physical product will be shipped<br>- This item is not designed to be printed<br></span>- Digital goods cannot be returned due to the nature of the product.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/6707795099750</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blvck.com/en-ca/products/4963554525286</id>
+    <published>2020-11-08T21:20:17+01:00</published>
+    <updated>2020-11-08T21:20:17+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/blvck-presets"/>
+    <title>Blvck Presets</title>
+    <s:type>Digital</s:type>
+    <s:vendor>Blvck Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/products/Signature.jpg?v=1607445986"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blvck Paris<br>
+        <strong>Type: </strong>Digital<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p data-mce-fragment="1"><span data-mce-fragment="1">By popular demand, Blvck Paris is finally releasing its own set of Mobile Presets.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">These presets will enable you to edit your photos with a dark, minimal and 'Blvck Paris' aesthetic in just a few clicks. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Blvck Paris preset pack comes with 5 unique presets:</span></p>
+<ol data-mce-fragment="1">
+<li data-mce-fragment="1">
+<strong>Blvck Signature Preset: </strong>give the 'Blvck Paris' signature filter to your photos </li>
+<li data-mce-fragment="1">
+<strong>Rainbow Preset:</strong> give a<strong> </strong>dramatic and moody filter to your photos</li>
+<li data-mce-fragment="1">
+<strong>Pitch Blvck Preset: </strong>give a bold and dark filter to your photos </li>
+<li data-mce-fragment="1">
+<strong>Faded Preset: </strong>give a dreamy and soft mood to your photos</li>
+<li data-mce-fragment="1">
+<strong>Whte Preset:  </strong>give a bright and clean filter to your photos </li>
+</ol>
+<p data-mce-fragment="1">Preset filters are fast and easy solutions for anyone who wants to give a minimalistic and unique touch to their photos. You can add these presets as a filter to edit your Instagram feed.</p>
+<ol data-mce-fragment="1"></ol>
+<p data-mce-fragment="1">These presets are for Mobile Lightroom app (iOS and Android) and available for desktop version of Lightroom. </p>
+<p data-mce-fragment="1">These presets have been tested extensively on many different style of photos and will most of the time look great after just once click. However in some cases, depending on the photos and quality, some photos may need further editing.  </p>
+<p data-mce-fragment="1"><strong>What is included:</strong></p>
+<p><span data-mce-fragment="1">- 5x Mobile Presets for Lightroom (.DNG files)</span><span data-mce-fragment="1"><br data-mce-fragment="1"></span><span data-mce-fragment="1">- <meta charset="utf-8">5x Desktop Presets (.xmp files)</span><span data-mce-fragment="1"><br data-mce-fragment="1"></span><span data-mce-fragment="1">- 5x LUTs for video editing (.CUBE files)</span></p>
+<p><span data-mce-fragment="1"></span><strong>Instant Download:</strong></p>
+<p><span data-mce-fragment="1">Once your payment has been authorised, you will immediately receive a download email shortly after.</span></p>
+<p><strong> Why getting it: </strong></p>
+<p><span data-mce-fragment="1">- Take your photos to the next level with a <strong>professional</strong> and fresh filter touch</span></p>
+<p><span data-mce-fragment="1">- Super <strong>easy</strong> to use with the free Lightroom app  </span></p>
+<p><span data-mce-fragment="1">- Very <strong>fast. </strong>Just upload the photo on the Lightroom app, choose from our 5 presets and your photo is ready to be posted on Instagram</span></p>
+<p><strong>How to use:</strong></p>
+<p><strong><iframe src="https://www.youtube.com/embed/dysOMp4CmoQ" height="315" width="560" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0"></iframe></strong></p>
+<p>Digital goods cannot be returned due to the nature of the product.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>_upsell_blvck-ios14-icons_32117416853606</s:tag>
+    <s:tag>accessorie</s:tag>
+    <s:tag>accessories</s:tag>
+    <s:tag>hightech</s:tag>
+    <s:tag>noreturn</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/4963554525286</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blvck.com/en-ca/products/4940506169446</id>
+    <published>2020-10-03T21:10:01+02:00</published>
+    <updated>2020-10-03T21:10:01+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://blvck.com/en-ca/products/blvck-ios14-icons"/>
+    <title>Blvck iOS Icons Set</title>
+    <s:type>Digital</s:type>
+    <s:vendor>Blvck Paris</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2252/3393/products/packblvck.jpg?v=1685284937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blvck Paris<br>
+        <strong>Type: </strong>Digital<br>
+        <strong>Price: </strong>
+            10.00 - 25.00
+            <a href="https://blvck.com/en-ca/products/blvck-ios14-icons">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><em><strong>The customisation works on iOS17.</strong></em></div>
+<div><em><strong></strong></em></div>
+<div><em><strong>Please note that the pack is not a theme, and that you have to manually add each icon to your home screen. Once the icons are installed, notifications badges on the shortcut apps won't appear.</strong></em></div>
+<div><em><strong></strong></em></div>
+<div><span data-mce-fragment="1"></span></div>
+<p><span data-mce-fragment="1">By popular demand, </span><span data-mce-fragment="1">Blvck Paris is releasing 3 different icon sets made for iOS.</span></p>
+<p><span data-mce-fragment="1">You can also use them for Android - check our guide on how to set it up <a href="https://blvck.com/blogs/blvck-paris/how-to-set-up-the-blvck-icons-on-android">here</a>.</span></p>
+<p><span data-mce-fragment="1">For iOS17, please check<a href="https://blvck.com/blogs/blvck-paris/how-to-customize-your-iphone-with-ios-14" target="_blank"> our blog post here to install.</a></span></p>
+<p><strong>What Is Included in each pack: </strong></p>
+<p><span style="text-decoration: underline;"><strong>Pack 1: Blvck Monochrome Signature Set ($15)</strong></span></p>
+<div>
+<span data-mce-fragment="1">- 796 custom icons</span><span data-mce-fragment="1"> </span>
+</div>
+<div><span data-mce-fragment="1">- 2 versions included: 394 Blvck &amp; 394 Whte icons </span></div>
+<div>- 10 complimentary Mobile Wallpapers</div>
+<div>- 10 complimentary Widget Wallpapers</div>
+<p> </p>
+<p><span style="text-decoration: underline;"><strong>Pack 2: Blvck Rainbow Set ($10)</strong></span></p>
+<div>
+<span data-mce-fragment="1">- 394 custom icons</span><span data-mce-fragment="1"> </span>
+</div>
+<div>
+<meta charset="utf-8">
+<div>- 10 complimentary Mobile Wallpapers</div>
+<div>- 10 complimentary Widget Wallpapers</div>
+</div>
+<div><span data-mce-fragment="1"></span></div>
+<p> </p>
+<p><strong>Pack 3: Blvckmoji Set ($10)</strong><br></p>
+<div>
+<div>
+<span data-mce-fragment="1">- 42 custom icons</span><span data-mce-fragment="1"> </span>
+</div>
+<div>
+<meta charset="utf-8">
+<div>- 10 complimentary Mobile Wallpapers</div>
+<div>- 10 complimentary Widget Wallpapers</div>
+</div>
+<div><br></div>
+<div><span data-mce-fragment="1"><br></span></div>
+<div><span data-mce-fragment="1"></span></div>
+<div><span data-mce-fragment="1"></span></div>
+<div><span data-mce-fragment="1"></span></div>
+<div>
+<meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>Pack 4: Bundle Pack - 3 Packs in one ($25)</strong></span></p>
+<div>
+<span data-mce-fragment="1">- 788 Blvck Monochrome + 394 Blvck Rainbow + 42 Blvckmoji Sets </span><span data-mce-fragment="1"> </span>
+</div>
+<div>
+<meta charset="utf-8">
+<div>- 10 complimentary Mobile Wallpapers</div>
+<div>- 10 complimentary Widget Wallpapers</div>
+</div>
+<div><span data-mce-fragment="1"></span></div>
+<div>
+<span data-mce-fragment="1"><meta charset="utf-8"></span><span style="color: #ffffff;" data-mce-fragment="1">-</span>
+</div>
+<div><span data-mce-fragment="1"></span></div>
+<div><span data-mce-fragment="1"></span></div>
+<div><span data-mce-fragment="1"></span></div>
+<div><strong></strong></div>
+<div><strong></strong></div>
+<div><strong>Here is a video on how to customize your iOS device:   </strong></div>
+<div><br></div>
+<div><span data-mce-fragment="1">   </span></div>
+<div><span data-mce-fragment="1"></span></div>
+<div><span data-mce-fragment="1"></span></div>
+<div><span data-mce-fragment="1"></span></div>
+<div><span data-mce-fragment="1"><iframe src="https://www.youtube.com/embed/aCq852yJeg0" height="315" width="560" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0"></iframe></span></div>
+<div><span data-mce-fragment="1"></span></div>
+<div><br></div>
+<div><strong>Instructions to customise your home screen:</strong></div>
+<div><strong></strong></div>
+<div>- Your files will be ready to download as soon as the payment is processed via email <br>- Please make sure you have the app 'FILES' installed on your phone to be able to easily access the icons. Alternatively, you can also download them from your laptop and send them via Airdrop to your phone<br>- We have also prepared a step by step YouTube tutorial to help you set it up: <br>https://www.youtube.com/watch?v=r7F2L2aL5xA&amp;feature=emb_logo</div>
+<div>- We have also prepared an updated blog post <a href="https://blvck.com/blogs/blvck-paris/how-to-customize-your-iphone-with-ios-14" target="_blank">here</a>
+</div>
+<div></div>
+<div>Digital goods cannot be returned due to the nature of the product.</div>
+<div>
+<ul></ul>
+</div>
+<div><span data-mce-fragment="1"></span></div>
+</div>
+</div>
+<div><strong></strong></div>
+<div id="gtx-trans" style="position: absolute; left: -46px; top: 502.037px;">
+<div class="gtx-trans-icon"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>_upsell_blvck-presets_32172581322854</s:tag>
+    <s:tag>accessorie</s:tag>
+    <s:tag>accessories</s:tag>
+    <s:tag>hightech</s:tag>
+    <s:tag>noreturn</s:tag>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/4940506169446</id>
+      <title>Bundle Pack (3 sets in 1)</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>Blvck Set 1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/4940506169446</id>
+      <title>Blvck Monochrome Signature Set</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>Blvck Set 2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/4940506169446</id>
+      <title>Blvck Rainbow Set</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Blvck Set 3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blvck.com/en-ca/products/4940506169446</id>
+      <title>Whte Bundle Set</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>47232398917963</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
